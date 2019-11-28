@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/create-react-store-todo-app/build/static/css/main.2a4bb4e9.chunk.css",
+    "main.js": "/create-react-store-todo-app/build/static/js/main.f18bae09.chunk.js",
+    "main.js.map": "/create-react-store-todo-app/build/static/js/main.f18bae09.chunk.js.map",
+    "runtime-main.js": "/create-react-store-todo-app/build/static/js/runtime-main.96a3c8d8.js",
+    "runtime-main.js.map": "/create-react-store-todo-app/build/static/js/runtime-main.96a3c8d8.js.map",
+    "static/js/2.2b6778ad.chunk.js": "/create-react-store-todo-app/build/static/js/2.2b6778ad.chunk.js",
+    "static/js/2.2b6778ad.chunk.js.map": "/create-react-store-todo-app/build/static/js/2.2b6778ad.chunk.js.map",
+    "index.html": "/create-react-store-todo-app/build/index.html",
+    "precache-manifest.2902deb518d9f422104073542591cc21.js": "/create-react-store-todo-app/build/precache-manifest.2902deb518d9f422104073542591cc21.js",
+    "service-worker.js": "/create-react-store-todo-app/build/service-worker.js",
+    "static/css/main.2a4bb4e9.chunk.css.map": "/create-react-store-todo-app/build/static/css/main.2a4bb4e9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a3c8d8.js",
+    "static/js/2.2b6778ad.chunk.js",
+    "static/css/main.2a4bb4e9.chunk.css",
+    "static/js/main.f18bae09.chunk.js"
+  ]
+}
